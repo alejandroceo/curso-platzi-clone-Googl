@@ -1,2 +1,2 @@
 # cursoplatziclongoog
-Curso clongoog Platzi
+Curso clone google Platzi
